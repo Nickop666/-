@@ -1,0 +1,15 @@
+При создании тг бота использовали:
+python 3.9
+библиотеки:
+SQL
+re
+os
+time
+shutil
+openpyxl
+datetime
+threading
+telebot
+sqlite3
+requests
+telebot 
